@@ -12,12 +12,14 @@
     font-size: 25px;
     font-weight: bold;
 }
-.nav-menu li{
+.links{
     cursor: pointer;
     padding: 5px;
     transition: 0.5s ease;
+    text-decoration: none;
+    color: black;
 }
-.nav-menu li:hover{
+.links:hover{
     background-color: antiquewhite;
 }
 .Login{
@@ -35,6 +37,8 @@
     border-radius: 5px;
     border-radius: 20px;
     transition: 0.5s ease;
+    color: black;
+    text-decoration: none;
 }
 .login-Button:hover{
     background-color: antiquewhite;
@@ -42,7 +46,7 @@
 .login-Button:active{
     background-color: rgb(153, 133, 104);
 }
-.nav-menu li:active{
+.links:active{
     background-color: rgb(153, 133, 104);
 }
 .item-Counter{
