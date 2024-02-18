@@ -1,0 +1,60 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    box-shadow: 0 1px 3px -2px black;
+}
+.nav-menu{
+    display:flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.nav-menu li{
+    cursor: pointer;
+    padding: 5px;
+    transition: 0.5s ease;
+}
+.nav-menu li:hover{
+    background-color: antiquewhite;
+}
+.Login{
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+.login-Button{
+    background-color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    border-radius: 20px;
+    transition: 0.5s ease;
+}
+.login-Button:hover{
+    background-color: antiquewhite;
+}
+.login-Button:active{
+    background-color: rgb(153, 133, 104);
+}
+.nav-menu li:active{
+    background-color: rgb(153, 133, 104);
+}
+.item-Counter{
+    width: 22px;
+    height: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -35px;
+    margin-left: -55px;
+    border-radius: 11px;
+    font-size: 14px;
+    background: red;
+    color: white;
+}
