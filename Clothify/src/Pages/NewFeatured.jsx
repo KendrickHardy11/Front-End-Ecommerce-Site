@@ -12,7 +12,6 @@ export default function NewFeatured(){
                     <h1>New & Featured</h1>
                 </div>
                 <div className="products">
-                    {" "}
                     {PRODUCTS.map((product) => (<Product data={product}/>))}
                 </div>
             </div>

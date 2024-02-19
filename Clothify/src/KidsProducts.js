@@ -9,49 +9,49 @@ import KidsShirts8 from "./assets/NikeKidsShirts8.jpg"
 
 export const KIDS_PRODUCTS = [
     {
-        id: 1,
+        id: 25,
         productName: "Nike Kids's Shirts 1",
         price: 150.0,
         productImage: KidsShirts1,
     },
     {
-        id: 2,
+        id: 26,
         productName: "Nike Kids's Shirts 2",
         price: 150.0,
         productImage: KidsShirts2,
     },
     {
-        id: 3,
+        id: 27,
         productName: "Nike Kids's Shirts 3",
         price: 150.0,
         productImage: KidsShirts3,
     },
     {
-        id: 4,
+        id: 28,
         productName: "Nike Kids's Shirts 4",
         price: 150.0,
         productImage: KidsShirts4,
     },
     {
-        id: 5,
+        id: 29,
         productName: "Nike Kids's Shirts 5",
         price: 150.0,
         productImage: KidsShirts5,
     },
     {
-        id: 6,
+        id: 30,
         productName: "Nike Kids's Shirts 6",
         price: 150.0,
         productImage: KidsShirts6,
     },
     {
-        id: 7,
+        id: 31,
         productName: "Nike Kids's Shirts 7",
         price: 150.0,
         productImage: KidsShirts7,
     },
     {
-        id: 8,
+        id: 32,
         productName: "Nike Kids's Shirts 8",
         price: 150.0,
         productImage: KidsShirts8,

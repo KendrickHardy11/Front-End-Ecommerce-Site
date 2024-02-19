@@ -9,49 +9,49 @@ import WomensShirts8 from "./assets/NikeWomensShirts8.jpg"
 
 export const WOMENS_PRODUCTS = [
     {
-        id: 1,
+        id: 17,
         productName: "Nike Women's Shirts 1",
         price: 150.0,
         productImage: WomensShirts1,
     },
     {
-        id: 2,
+        id: 18,
         productName: "Nike Women's Shirts 2",
         price: 150.0,
         productImage: WomensShirts2,
     },
     {
-        id: 3,
+        id: 19,
         productName: "Nike Women's Shirts 3",
         price: 150.0,
         productImage: WomensShirts3,
     },
     {
-        id: 4,
+        id: 20,
         productName: "Nike Women's Shirts 4",
         price: 150.0,
         productImage: WomensShirts4,
     },
     {
-        id: 5,
+        id: 21,
         productName: "Nike Women's Shirts 5",
         price: 150.0,
         productImage: WomensShirts5,
     },
     {
-        id: 6,
+        id: 22,
         productName: "Nike Women's Shirts 6",
         price: 150.0,
         productImage: WomensShirts6,
     },
     {
-        id: 7,
+        id: 23,
         productName: "Nike Women's Shirts 7",
         price: 150.0,
         productImage: WomensShirts7,
     },
     {
-        id: 8,
+        id: 24,
         productName: "Nike Women's Shirts 8",
         price: 150.0,
         productImage: WomensShirts8,

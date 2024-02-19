@@ -12,7 +12,6 @@ export default function Kids(){
                     <h1>Kid's Clothes</h1>
                 </div>
                 <div className="products">
-                    {" "}
                     {KIDS_PRODUCTS.map((product) => (<Product data={product}/>))}
                 </div>
             </div>

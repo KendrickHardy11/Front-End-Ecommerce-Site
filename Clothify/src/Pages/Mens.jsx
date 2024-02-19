@@ -12,7 +12,6 @@ export default function Mens(){
                     <h1>Men's Clothes</h1>
                 </div>
                 <div className="products">
-                    {" "}
                     {MENS_PRODUCTS.map((product) => (<Product data={product}/>))}
                 </div>
             </div>

@@ -17,49 +17,49 @@ import MensShirts8 from "./assets/NikeMensShirts8.jpg"
 
 export const MENS_PRODUCTS = [
     {
-        id: 1,
+        id: 9,
         productName: "Nike Men's Shirts 1",
         price: 150.0,
         productImage: MensShirts1,
     },
     {
-        id: 2,
+        id: 10,
         productName: "Nike Men's Shirts 2",
         price: 150.0,
         productImage: MensShirts2,
     },
     {
-        id: 3,
+        id: 11,
         productName: "Nike Men's Shirts 3",
         price: 150.0,
         productImage: MensShirts3,
     },
     {
-        id: 4,
+        id: 12,
         productName: "Nike Men's Shirts 4",
         price: 150.0,
         productImage: MensShirts4,
     },
     {
-        id: 5,
+        id: 13,
         productName: "Nike Men's Shirts 5",
         price: 150.0,
         productImage: MensShirts5,
     },
     {
-        id: 6,
+        id: 14,
         productName: "Nike Men's Shirts 6",
         price: 150.0,
         productImage: MensShirts6,
     },
     {
-        id: 7,
+        id: 15,
         productName: "Nike Men's Shirts 7",
         price: 150.0,
         productImage: MensShirts7,
     },
     {
-        id: 8,
+        id: 16,
         productName: "Nike Men's Shirts 8",
         price: 150.0,
         productImage: MensShirts8,
