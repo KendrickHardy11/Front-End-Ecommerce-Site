@@ -1,3 +1,5 @@
-# Full-Stack-Ecommerce-Site
+# Front-End-Ecommerce-Website
 
-#Overview
+This project aims to provide a seamless and intuitive shopping experience, focusing solely on the front-end implementation.
+
+# Features
