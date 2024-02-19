@@ -8,7 +8,7 @@ This project aims to provide a seamless and intuitive shopping experience, focus
 
 - **Product Catalog:** Browse through a wide range of products conveniently categorized for easy navigation.
 
-- **Product Details:** View detailed information about each product, including images, descriptions, and pricing.
+- **Product Details:** View information about each product, including images, descriptions, and pricing.
 
 - **Add to Cart:** Easily add products to your cart for seamless shopping.
 
