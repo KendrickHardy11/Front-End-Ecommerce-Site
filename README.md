@@ -1,5 +1,7 @@
 # Front-End-Ecommerce-Website
 
+# Overview
+
 This project aims to provide a seamless and intuitive shopping experience, focusing solely on the front-end implementation.
 
 # Features
@@ -15,7 +17,7 @@ This project aims to provide a seamless and intuitive shopping experience, focus
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
-- 
+
 - **HTML5:** Markup language for structuring the web pages.
-- 
+
 - **CSS3:** Styling language for enhancing the visual presentation of the website.
