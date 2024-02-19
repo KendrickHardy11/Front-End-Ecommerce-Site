@@ -16,7 +16,7 @@ export const Cart = () => {
             <Navbar/>
             <div className="cart">
                 <div> 
-                    <h1>Your Cart Items</h1>
+                    <h1 className="cartItemsLabel">Your Cart Items</h1>
                 </div>
                 <div className="cartItems">
                     {PRODUCTS.map((product) => {

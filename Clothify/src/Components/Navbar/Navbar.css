@@ -3,12 +3,17 @@
     justify-content: space-around;
     padding: 16px;
     box-shadow: 0 1px 3px -2px black;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: white;
 }
 .nav-logo{
     display: flex;
     justify-content: space-around;
     padding: 10px;
     gap: 15px;
+    font-family: "kanit";
 }
 .nav-menu{
     display:flex;
@@ -24,9 +29,13 @@
     transition: 0.5s ease;
     text-decoration: none;
     color: black;
+    font-family: "Roboto";
+    transition: 0s ease;
 }
 .links:hover{
-    background-color: antiquewhite;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: red;
 }
 .Login{
     display: flex;
@@ -38,22 +47,25 @@
     cursor: pointer;
     font-weight: bold;
     font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Roboto";
     border: 3px solid rgb(255, 255, 255);
     border-radius: 5px;
     border-radius: 20px;
     transition: 0.5s ease;
     color: black;
     text-decoration: none;
+    transition: 0s ease;
 }
 .login-Button:hover{
-    background-color: antiquewhite;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: red;
 }
 .login-Button:active{
-    background-color: rgb(153, 133, 104);
+    text-decoration-color: rgba(255, 0, 0, 0.596);
 }
 .links:active{
-    background-color: rgb(153, 133, 104);
+    text-decoration-color: rgba(255, 0, 0, 0.596);
 }
 .item-Counter{
     width: 22px;

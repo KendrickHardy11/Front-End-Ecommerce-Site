@@ -3,13 +3,18 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: "Roboto";
   }
-  
+  .cartItemsLabel {
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    margin-top: 150px;
+  }
   .cartItem {
     width: 700px;
     height: 250px;
     display: flex;
-  
+    justify-content: center;
     align-items: center;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
     border-radius: 25px;
@@ -18,11 +23,14 @@
   
   .cartItem img {
     width: 200px;
+    padding-left: 20px;
   }
   
   .cartItem .description {
     width: 100%;
     font-size: 30px;
+    font-family: "Roboto";
+    padding-left: 30px;
   }
   
   .countHandler input {
@@ -40,4 +48,8 @@
     border-radius: 8px;
     margin: 10px;
     cursor: pointer;
+  }
+  .checkout {
+    font-family: "Roboto";
+    font-size: 30px;
   }

@@ -10,7 +10,7 @@ function Navbar(){
         <div className = "navbar">
             <div className = "nav-logo">
                 <img src = {logoLarge} alt = "Clothify Logo"/>
-                <h2>Clothify</h2>
+                <h2 className="brand">Clothify</h2>
             </div>
             <ul className = "nav-menu">
                 <Link to="/" className="links">New & Featured</Link>
